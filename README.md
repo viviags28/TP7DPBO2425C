@@ -11,9 +11,10 @@ Program ini memungkinkan pengguna untuk mengelola data Anime, Studio, dan Genre 
 
 <img width="556" height="410" alt="image" src="https://github.com/user-attachments/assets/24c70904-58f5-4050-9418-457ec97e67b7" />
 
+
 # Erd
 
-
+<img width="733" height="222" alt="2  ERD" src="https://github.com/user-attachments/assets/803b3dbe-d452-47fa-859e-92b6c6595bd2" />
 
 
 # Fitur Utama
@@ -41,3 +42,11 @@ Program ini memungkinkan pengguna untuk mengelola data Anime, Studio, dan Genre 
 4. Buka browser dan akses index.php
 
 # Dokumentasi
+
+
+https://github.com/user-attachments/assets/d11731d6-04f7-444b-9cba-5425b13b7a2e
+
+
+
+
+
