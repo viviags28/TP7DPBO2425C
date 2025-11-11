@@ -1,0 +1,148 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f5f6fa;
+  margin: 0;
+  padding: 0;
+  color: #2f3640;
+}
+
+header {
+  background: #273c75;
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+}
+
+nav {
+  background: #718093;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  padding: 10px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding: 20px;
+  background: white;
+  border-radius: 10px;
+  max-width: 900px;
+  margin: 20px auto;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background: #dcdde1;
+}
+
+footer {
+  background: #273c75;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  margin-top: 20px;
+}
+
+form {
+  margin-top: 20px;
+  background: #f1f2f6;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+form label {
+  font-weight: bold;
+  display: block;
+  margin-top: 10px;
+  color: #2f3640;
+}
+
+form input[type="text"],
+form input[type="number"],
+form textarea,
+form select {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+form button {
+  margin-top: 15px;
+  padding: 10px 15px;
+  background: #273c75;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+form button:hover {
+  background: #40739e;
+}
+
+hr {
+  margin: 25px 0;
+  border: none;
+  border-top: 2px solid #dcdde1;
+}
+
+h3 {
+  margin-top: 40px;
+  color: #273c75;
+  text-align: center;
+}
+
+.btn-edit,
+.btn-delete {
+  display: inline-block;
+  padding: 6px 10px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  color: white;
+  font-size: 13px;
+}
+
+.btn-edit {
+  background-color: #44bd32;
+}
+
+.btn-edit:hover {
+  background-color: #4cd137;
+}
+
+.btn-delete {
+  background-color: #c23616;
+  margin-left: 5px;
+}
+
+.btn-delete:hover {
+  background-color: #e84118;
+}
